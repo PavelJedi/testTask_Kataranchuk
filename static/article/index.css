@@ -1,0 +1,13 @@
+.chart {
+  width: min(100%, 800px);
+}
+
+.content_block-image {
+  width: min(100%, 600px);
+}
+
+.content_block-text {
+  width: min(100%, 600px);
+}
+
+
